@@ -1,11 +1,9 @@
 import React from 'react';
 
-const App = () => {
-  return (
-    <div>
-      <h1>Bank Modern App</h1>
-    </div>
-  );
-};
+const App = () => (
+  <div className="bg-primary w-full overflow-hidden">
+    <div></div>
+  </div>
+);
 
 export default App;
