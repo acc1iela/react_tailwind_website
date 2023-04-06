@@ -7,10 +7,8 @@ import {
   Clients,
   CTA,
   Footer,
-  Navbar,
   Stats,
   Testimonials,
-  Hero,
 } from './components';
 
 const App = () => (
